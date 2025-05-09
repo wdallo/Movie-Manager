@@ -40,8 +40,7 @@ crud-mod/
 │   │   └── script.js       # Main JavaScript logic
 │   └── images/
 │       └── bg.jpg          # Background image
-├── server/
-│   └── server.js           # Backend server logic
+├── app.js                 # Backend server logic
 ├── README.md               # Project documentation
 └── package.json            # Node.js dependencies
 ```
